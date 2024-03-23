@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأخبار</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="news_app">تطبيق الأخبار</string>
+    <string name="categories">التصنيفات</string>
+    <string name="settings">الإعدادات</string>
+
+    <string name="pick_your_category">اختر الفئة</string>
+
+    <string name="sports">الرياضة</string>
+    <string name="technology">التقنية</string>
+    <string name="health">الصحة</string>
+    <string name="business">الأعمال</string>
+    <string name="general">General</string>
+    <string name="science">العلوم</string>
+    <string name="category_image">Category Image</string>
+    <string name="news_article">news_article</string>
+    <string name="title_activity_settings_fragment">SettingsFragment</string>
+    <string name="settings_screen">settings_screen</string>
+    <string name="view_full_article">View Full Article</string>
+</resources>

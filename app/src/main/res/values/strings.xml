@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="news_app">News App</string>
+    <string name="categories">Categories</string>
+    <string name="settings">Settings</string>
+
+    <string name="pick_your_category">Pick your category \n of interest</string>
+
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="business">Business</string>
+    <string name="general">General</string>
+    <string name="science">Science</string>
+    <string name="category_image">Category Image</string>
+    <string name="news_article">news_article</string>
+    <string name="title_activity_settings_fragment">SettingsFragment</string>
+    <string name="settings_screen">settings_screen</string>
+    <string name="view_full_article">View Full Article</string>
+    <string name="please_choose_preferred_language">Please choose preferred Language</string>
+    <string name="search_screen">search_screen</string>
+</resources>
